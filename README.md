@@ -20,9 +20,9 @@
 
 ## About
 
-I build LLM-powered systems end to end: ingestion, retrieval, generation, validation, and the service boundaries between them. I care most about what makes AI systems trustworthy: verifiable answers, isolated tenant data, bounded token spend, and predictable agents.
+AI/ML Engineer with a strong foundation in Python, machine learning, and end-to-end application development. Experienced in building LLM-powered applications, Retrieval-Augmented Generation (RAG) systems, and AI agent workflows, with a focus on prompt engineering, token optimization, and backend integration. Committed to delivering scalable, reliable, and secure AI solutions.
 
-B.E. in Computer Science & Engineering (AI & ML), AMC Engineering College, Bengaluru. **Open to** AI/ML engineering roles focused on LLM applications, RAG, and agent systems.
+Currently pursuing a B.E. in Computer Science & Engineering (AI & ML) at AMC Engineering College, Bengaluru. Open to AI/ML engineering opportunities involving LLM applications, RAG, and agent systems.
 
 ---
 
