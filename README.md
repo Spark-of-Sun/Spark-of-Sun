@@ -10,7 +10,7 @@
 
 <p align="center">
   <img src="https://img.shields.io/badge/Bengaluru-India-0d1117?style=flat-square&logo=googlemaps&logoColor=white" alt="Location" />
-  <a href="mailto:ganpatikrsah1405@gmail.com"><img src="https://img.shields.io/badge/Email-ganpatikrsah1405%40gmail.com-0d1117?style=flat-square&logo=gmail&logoColor=white" alt="Email" /></a>
+  <a href="mailto:ganpatikrsah1405@gmail.com"><img src="https://img.shields.io/badge/Email-contact@ganpatikrsah.site-0d1117?style=flat-square&logo=gmail&logoColor=white" alt="Email" /></a>
   <!-- Add LinkedIn here:
   <a href="https://www.linkedin.com/in/YOUR-HANDLE"><img src="https://img.shields.io/badge/LinkedIn-Connect-0d1117?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
   -->
